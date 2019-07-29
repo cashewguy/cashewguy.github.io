@@ -1,1 +1,20 @@
-Hello World
+---
+site_title: Thomas Bates
+title: Thomas Bates
+description: Notes from the Field
+layout: default
+show_downloads: "false"
+
+---
+
+<!-- <h1>An Intro</h1>
+<hr>
+<p>My name is Thomas Bates, I am a BSW Candidate at the University of Illinois at Urbana-Champaign, and am currently the Undergraduate Student Representative for the Illinois Chapter of the National Association of Social Workers.  The thoughts I express here are my own, and do not represent UIUC, the NASW, or my employer.
+
+Thank you,</p>-->
+
+
+{% for post in site.posts %}
+	<h1 class='post-loop-title'><a href="{{ post.url }}">{{ post.title }}</a></h1>
+	<p class='post-loop-excerpt'>{{ post.excerpt }}</p>
+{% endfor %}
