@@ -6,11 +6,11 @@ title: "Visconti Van Gogh - CI Grind by Mark Bacas"
 
 I bought this pen a little over a month ago from Anderson Pens in Chicago.  Apart from a few vintage pens, and my very first fountain pen (A Lamy Safari), this is the first pen I've bought from someone other than Goulet Pens.  This Van Gogh is the Self Portrait version, and I love the way it looks. (...)
 
-![Visconti Van Gogh]({{ site.url }}/assets/images/vangogh-2.jpg)
+![Visconti Van Gogh]({{ site.url }}/assets/images/vangogh-2.JPG)
 
 <!--more-->
 
-![Visconti Van Gogh]({{ site.url }}/assets/images/vangogh-1.jpg)
+![Visconti Van Gogh]({{ site.url }}/assets/images/vangogh-1.JPG)
 
 I originally inked the pen with Noodler's Qternity, my current go-to blue-black ink.  After a while, I switched to Pelikan Brilliant Brown.  However, with both inks, I noticed that this pen has quite a lot of hard starts.  This was frustrating, given it is currently the most expensive pen I own.  My TWSBI VAC-700R became my most used pen while I considered what to do with the Visconti.
 
