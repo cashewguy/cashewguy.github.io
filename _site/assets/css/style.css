@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*! normalize.css 2012-02-07T12:37 UTC - https://github.com/necolas/normalize.css */
 /* ============================================================================= HTML5 display definitions ========================================================================== */
 /* Corrects block display not defined in IE6/7/8/9 & FF3 */
@@ -305,3 +306,7 @@ a:hover { color: #61C569; }
 p { font-size: 1.5em; font-family: 'Alegreya', serif; }
 
 footer { background: #14151D; width: 100%; padding: 10px; text-align: center; }
+
+hr { overflow: visible; /* For IE */ padding: 0; border: none; border-top: none solid #333; color: #333; text-align: center; }
+
+hr:after { /*content: "§";*/ content: "⚜"; display: inline-block; position: relative; top: -0.7em; font-size: 1.5em; padding: 0 0.25em; background: #07131E; }
