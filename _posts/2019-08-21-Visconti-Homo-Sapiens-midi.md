@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Visconti Homo Sapiens Broze Age - Midi"
 
 ---

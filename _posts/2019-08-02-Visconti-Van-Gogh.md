@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Visconti Van Gogh - CI Grind by Mark Bacas"
+layout: post
+title: "Visconti Van Gogh - CI Ground by Mark Bacas"
 
 ---
 
