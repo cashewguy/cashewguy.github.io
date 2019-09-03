@@ -14,7 +14,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
 | Lamy | Safari | M | 2012 | Soon! | Replacing F nib with 1.9 Stub 8/30/19 |
 | ~~Nemosine~~ | ~~Singularity~~ | ~~EF~~ | ~~2013~~ | ~~None~~ | ~~Demonstrator, Sold 2015~~ |
 | Sheaffer | Imperial 440 | F | 2013 | None | Replaced nib unit in 2015 |
-| Sheaffer | Unknown | M or B | 2014 | None | Possibly a "Sheaffer Student" |
+| Sheaffer | Viewpoint | "F" | 2014 | None | Seems to have a "Calligraphy" nib that writes like a CI or Oblique |
 | Parker | 21 | M | 2016 | None | Found in a consignment shop for $15, great writer, but gets my hands dirty. |
 | Kaweco | Sport Classic | M | May 2019 | None | Bordeaux |
 | TWSBI | VAC-700R | F | May 2019 | None | Clear |
