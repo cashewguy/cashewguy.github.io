@@ -20,4 +20,4 @@ Here is a list of pens currently in my collection.  I might also include inks in
 | TWSBI | VAC-700R | F | May 2019 | None | Clear |
 | Visconti | Van Gogh | F | June 2019 | Posted | Self Portrait in Blue, CI nib by Mark Bacas |
 | Visconti | Homo Sapiens | F | August 2019 | Posted | Midi, Bronze Age |
-| Platinum | 3776 | EF | August 2019 | Anticipated | Bourgogne |
+| Platinum | 3776 | EF | August 2019 | Posted | Bourgogne |
