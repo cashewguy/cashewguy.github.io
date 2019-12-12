@@ -29,4 +29,5 @@ Here is a list of pens currently in my collection.  I might also include inks in
 | Hero | 9038 | M | November 2019 | Planned | Pen Swap Stocking Stuffer |
 | Jinhao | 159 | M | November 2019 | Planned | Pen Swap Stocking Stuffer |
 | Duke | 209 | Fude | November 2019 | Planned | Pen Swap Stocking Stuffer - might be broken as it seems to dry out. |
-| Baoer | 51 | M | November 2019 | Planned | Pen Swap Stocking Stuffer | 
+| Baoer | 51 | M | November 2019 | Planned | Pen Swap Stocking Stuffer |
+| Parker | Unknown | M | November 2019 | Planned | Pen Swap Stocking Stuffer - Nice pen, plastic body, eyedroppered |
