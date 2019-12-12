@@ -23,3 +23,10 @@ Here is a list of pens currently in my collection.  I might also include inks in
 | Platinum | 3776 | EF | August 2019 | Posted | Bourgogne |
 | Montblanc | 149 | M | September 2019 | Planned | @Nibgrinder for Tuning |
 | Sheaffer | No Nonsense | M | September 2019 | Planned | Green Flattop |
+| Jinhao | X450 | M | November 2019 | Planned | Pen Swap Stocking Stuffer |
+| Unbranded | "Rosewood" | M | November 2019 | Planned | Pen Swap Stocking Stuffer |
+| Baoer | 508 | M | November 2019 | Planned | Pen Swap Stocking Stuffer |
+| Hero | 9038 | M | November 2019 | Planned | Pen Swap Stocking Stuffer |
+| Jinhao | 159 | M | November 2019 | Planned | Pen Swap Stocking Stuffer |
+| Duke | 209 | Fude | November 2019 | Planned | Pen Swap Stocking Stuffer - might be broken as it seems to dry out. |
+| Baoer | 51 | M | November 2019 | Planned | Pen Swap Stocking Stuffer | 
