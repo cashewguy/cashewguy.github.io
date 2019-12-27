@@ -26,4 +26,5 @@ Here is a list of inks currently in my collection.
 | Jacques Herbin | Émeraude de Chivor | Probably! | This was gifted to me by BBVP CosmicHobo in the 2019 Secret Santa.  I've always heard amazing things about this ink and I love its bottle design and the way it looks on paper.  I used it in my 1.9mm Lamy Safari to label gifts this year. |
 | Random Allocation | Frostbite | Maybe! | A lovely grey from Modern Beaker / Random Allocation sent to me for a birthday from BBVP Jess.  Currently in my Hero 9038. |
 | Random Allocation | Pride | Maybe! | A very cool bluey-purple from Modern Beaker / Random Allocation sent to me for a birthday from BBVP Jess.  Currently in my Jinhao x450. |
+| Sailor | Oku-Yama | Probably! | From the Colors of the Four Seasons or "Shikiori" line, this is a lovely Maroon that I purchased to pair with my incoming Sailor White Russian. |
 

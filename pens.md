@@ -34,4 +34,4 @@ Here is a list of pens currently in my collection.  I might also include inks in
 | Jinhao | Shark | F | December 2019 | Maybe | x12 Purchased as gifts for co-workers |
 | Jinhao | 599 | M | December 2019 | Maybe | x8 Purchased to practice some nibwork |
 | Pilot | Vanishing Point | M | December 2019 | Planned | Blue Carbonesque, Purchased from BBVP Neko |
-| Sailor | Pro Gear Slim "White Russian" | M | December 2019 | Planned |  |
+| Sailor | Pro Gear Slim "White Russian" | M | December 2019 | Planned | On order, arriving January 2020 |
