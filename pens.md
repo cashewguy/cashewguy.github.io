@@ -48,3 +48,29 @@ Pens no longer in my collection, for one reason or another...
 | Nemosine | Singularity | EF | 2013 | None | Demonstrator, Sold 2015 |
 | Jinhao | Shark | F | December 2019 | None | x12 Purchased as gifts for co-workers for Christmas |
 | TWSBI | Eco | B | December 2019 | None | Purchased as a gift for BBVP Secret Santa |
+
+---
+
+## Wish List
+
+---
+
+These pens are on my short list...
+
+| Maker | Model | Nib Size | | Notes |
+|-------|--------|---------|
+| Platinum | President | M or B | I think I'd like to grab a Blue or Burgandy one. |
+| Sheaffer | Triumph | M | Carmine Required. |
+| Visconti | Homo Sapiens | F or M | Would like the full-size version of my VHS Midi. |
+| Montblanc | 146 | F | Perhaps Burgundy? |
+| Sailor | Pro Gear | M or MF or Music | Also interested in a 1911 |
+| Sailor | King of Pen | M or B | Mandatory for all wishlists. |
+| Pelikan | M1000 | F or M | Need more BIG pens. |
+| Platinum | Curidas | M or B | Will it be good?  Will it be bad? |
+| Pilot | Vanishing Point | F | Stripes |
+| Newton | Sumpter | M | Considering a Blue & Orange something. |
+| Opus | 88 | B | Demonstrator |
+| Wahl-Eversharp | Decoband Rosewood | M |  |
+| Montegrappa | EXTRA 1930 | M | The only Montegrappa I've been struck by. |
+| Nettuno | "God of the Sea" | M | Limited Edition |
+| Conid | Bulkfiller | M? | Kingsize, perhaps. |

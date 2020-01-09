@@ -27,4 +27,5 @@ Here is a list of inks currently in my collection.
 | Random Allocation | Frostbite | Maybe! | A lovely grey from Modern Beaker / Random Allocation sent to me for a birthday from BBVP Jess.  Currently in my Hero 9038. |
 | Random Allocation | Pride | Maybe! | A very cool bluey-purple from Modern Beaker / Random Allocation sent to me for a birthday from BBVP Jess.  Currently in my Jinhao x450. |
 | Sailor | Oku-Yama | Probably! | From the Colors of the Four Seasons or "Shikiori" line, this is a lovely Maroon that I purchased to pair with my incoming Sailor White Russian. |
-
+| Herbin | Perle Noire | Probably! | Replaced TMKR Sinulog Black in my VHS. |
+| Herbin | Lie De Thé | Probably! | Currently in a Jinhao 599 to test, I'm having mixed reactions to it. |
