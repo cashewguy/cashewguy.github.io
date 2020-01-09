@@ -57,7 +57,7 @@ Pens no longer in my collection, for one reason or another...
 
 These pens are on my ~~short~~ list...
 
-| Maker | Model | Nib Size | | Notes |
+| Maker | Model | Nib Size | Notes |
 |-------|--------|---------|
 | Platinum | President | M or B | I think I'd like to grab a Blue or Burgandy one. |
 | Sheaffer | Triumph | M | Carmine Required. |
