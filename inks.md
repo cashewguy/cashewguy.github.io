@@ -29,3 +29,4 @@ Here is a list of inks currently in my collection.
 | Sailor | Oku-Yama | Probably! | From the Colors of the Four Seasons or "Shikiori" line, this is a lovely Maroon that I purchased to pair with my incoming Sailor White Russian. |
 | Herbin | Perle Noire | Probably! | Replaced TMKR Sinulog Black in my VHS. |
 | Herbin | Lie De Thé | Probably! | Currently in a Jinhao 599 to test, I'm having mixed reactions to it. |
+| Diamine | Registrar's | Probably! | Currently in my Vanishing Point.  Purchased from Dr. Brownie of BBVP. |
