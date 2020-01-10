@@ -32,8 +32,9 @@ Here is a list of pens currently in my collection.  I might also include inks in
 | Parker | Unknown | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer - Nice pen, plastic body, eyedroppered |
 | Jinhao | 599 | M | December 2019 | Maybe | x8 Purchased to practice some nibwork |
 | Pilot | Vanishing Point | M | December 2019 | Planned | Blue Carbonesque, Purchased from BBVP Neko |
-| Sailor | Pro Gear Slim "White Russian" | M | December 2019 | [Posted]({% post_url 2020-01-03-Sailor-White-Russian %}) | On order, arriving January 2020 |
+| Sailor | Pro Gear Slim "White Russian" | M | December 2019 | [Posted]({% post_url 2020-01-03-Sailor-White-Russian %}) | The Dude |
 | TWSBI | 580AL Emerald | F | January 2020 | Anticipated | Purchased from Dr. Brownie of BBVP. |
+| Sailor | 1911L | B | January 2020 | Planned | On order, arriving January 2020 |
 
 ---
 
