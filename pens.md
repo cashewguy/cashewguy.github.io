@@ -10,7 +10,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
 ---
 
 | Maker | Model | Nib Size | Purchase Date | Review | Notes |
-|-------|--------|---------|
+|-------|--------|---------|---------|---------|---------|
 | Lamy | Safari | M | 2012 | Soon! | F nib replaced by 1.9 Stub 8/30/19 |
 | Sheaffer | Imperial 440 | F | 2013 | None | Replaced nib unit in 2015 |
 | Sheaffer | Viewpoint | "F" | 2014 | None | Seems to have a "Calligraphy" nib that writes like a CI or Oblique |
@@ -45,7 +45,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
 Pens no longer in my collection, for one reason or another...
 
 | Maker | Model | Nib Size | Purchase Date | Review | Notes |
-|-------|--------|---------|
+|-------|--------|---------|---------|---------|---------|
 | Nemosine | Singularity | EF | 2013 | None | Demonstrator, Sold 2015 |
 | Jinhao | Shark | F | December 2019 | None | x12 Purchased as gifts for co-workers for Christmas |
 | TWSBI | Eco | B | December 2019 | None | Purchased as a gift for BBVP Secret Santa |
@@ -59,7 +59,7 @@ Pens no longer in my collection, for one reason or another...
 These pens are on my ~~short~~ list...
 
 | Maker | Model | Nib Size | Notes |
-|-------|--------|---------|
+|-------|--------|---------|---------|
 | Platinum | President | M or B | I think I'd like to grab a Blue or Burgandy one. |
 | Sheaffer | Triumph | M | Carmine Required. |
 | Visconti | Homo Sapiens | F or M | Would like the full-size version of my VHS Midi. |

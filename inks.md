@@ -10,7 +10,7 @@ Here is a list of inks currently in my collection.
 ---
 
 | Maker | Name | Review | Notes |
-|-------|--------|---------|
+|-------|--------|---------|---------|
 | Waterman | Intense Black | Maybe! | I've bought countless bottles of this ink as I wrote exclusively with it for about 4 years. |
 | Noodler's | Red | Unlikely | Purchased for editing/markup before I switched to blue inks for that.  Not my favorite ink, and I'd guess there's still 90% of the bottle left that I purchased in 2013. |
 | Waterman | Mysterious Blue | Maybe! | Another ink that I've bought many bottles of. |
