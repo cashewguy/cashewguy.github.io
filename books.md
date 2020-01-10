@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Pen Collection"
+title: "Books & Reading List"
 ---
 
 # 2020 Books List
