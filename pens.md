@@ -9,33 +9,34 @@ Here is a list of pens currently in my collection.  I might also include inks in
 
 ---
 
-| Maker | Model | Nib Size | Purchase Date | Review | Notes |
-|-------|--------|---------|---------|---------|---------|
-| Lamy | Safari | M | 2012 | Soon! | F nib replaced by 1.9 Stub 8/30/19 |
-| Sheaffer | Imperial 440 | F | 2013 | None | Replaced nib unit in 2015 |
-| Sheaffer | Viewpoint | "F" | 2014 | None | Seems to have a "Calligraphy" nib that writes like a CI or Oblique |
-| Parker | 21 | M | 2016 | None | Found in a consignment shop, great writer, but has a small hairline crack. |
-| Kaweco | Sport Classic | M | May 2019 | None | Bordeaux |
-| TWSBI | VAC-700R | F | May 2019 | None | Clear |
-| Visconti | Van Gogh | F | June 2019 | [Posted]({% post_url 2019-08-02-Visconti-Van-Gogh %}) | Self Portrait in Blue, CI nib by Mark Bacas |
-| Visconti | Homo Sapiens | F | August 2019 | [Posted]({% post_url 2019-08-21-Visconti-Homo-Sapiens-midi %}) | Midi, Bronze Age |
-| Platinum | 3776 | EF | August 2019 | [Posted]({% post_url 2019-08-24-Platinum-3776 %}) | Bourgogne |
-| Montblanc | 149 | M | September 2019 | [Posted]({% post_url 2019-12-27-Montblanc-149 %}) | Tuned by Bacas |
-| Sheaffer | No Nonsense | M | September 2019 | Planned | Green Flattop |
-| Jinhao | X450 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
-| Unbranded | "Rosewood" | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
-| Baoer | 508 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
-| Hero | 9038 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
-| Jinhao | 159 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
-| Duke | 209 | Fude | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer - might be broken as it seems to dry out. |
-| Baoer | 51 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
-| Parker | Unknown | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer - Nice pen, plastic body, eyedroppered |
-| Jinhao | 599 | M | December 2019 | Maybe | x8 Purchased to practice some nibwork |
-| Pilot | Vanishing Point | M | December 2019 | Planned | Blue Carbonesque, Purchased from BBVP Neko |
-| Sailor | Pro Gear Slim "White Russian" | M | December 2019 | [Posted]({% post_url 2020-01-03-Sailor-White-Russian %}) | The Dude |
-| TWSBI | 580AL Emerald | F | January 2020 | Anticipated | Purchased from Dr. Brownie of BBVP. |
-| Sailor | 1911L | B | January 2020 | Planned | On order, arriving January 2020 |
-| Sheaffer | Balance Craftsman Red Carmine | #33, M(I think) | January 2020 | Planned | On order, arriving January 2020.  Likely to send for restoration. |
+| # | Maker | Model | Nib Size | Purchase Date | Review | Notes |
+|---|-------|--------|---------|---------|---------|---------|
+| 01 | Lamy | Safari | M | 2012 | Soon! | F nib replaced by 1.9 Stub 8/30/19 |
+| 02 | Sheaffer | Imperial 440 | F | 2013 | None | Replaced nib unit in 2015 |
+| 03 | Sheaffer | Viewpoint | "F" | 2014 | None | Seems to have a "Calligraphy" nib that writes like a CI or Oblique |
+| 04 | Parker | 21 | M | 2016 | None | Found in a consignment shop, great writer, but has a small hairline crack. |
+| 05 | Kaweco | Sport Classic | M | May 2019 | None | Bordeaux |
+| 06 | TWSBI | VAC-700R | F | May 2019 | None | Clear |
+| 07 | Visconti | Van Gogh | F | June 2019 | [Posted]({% post_url 2019-08-02-Visconti-Van-Gogh %}) | Self Portrait in Blue, CI nib by Mark Bacas |
+| 08 | Visconti | Homo Sapiens | F | August 2019 | [Posted]({% post_url 2019-08-21-Visconti-Homo-Sapiens-midi %}) | Midi, Bronze Age |
+| 09 | Platinum | 3776 | EF | August 2019 | [Posted]({% post_url 2019-08-24-Platinum-3776 %}) | Bourgogne |
+| 10 | Montblanc | 149 | M | September 2019 | [Posted]({% post_url 2019-12-27-Montblanc-149 %}) | Tuned by Bacas |
+| 11 | Sheaffer | No Nonsense | M | September 2019 | Planned | Green Flattop |
+| 12 | Jinhao | X450 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
+| 13 | Unbranded | "Rosewood" | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
+| 14 | Baoer | 508 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
+| 15 | Hero | 9038 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
+| 16 | Jinhao | 159 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
+| 17 | Duke | 209 | Fude | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer - might be broken as it seems to dry out. |
+| 18 | Baoer | 51 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
+| 19 | Parker | "15" | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer - Nice pen, plastic body, eyedroppered |
+| 20 | Jinhao | 599 | M | December 2019 | Maybe | x8 Purchased to practice some nibwork |
+| 21 | Pilot | Vanishing Point | M | December 2019 | Planned | Blue Carbonesque, Purchased from BBVP Neko |
+| 22 | Sailor | Pro Gear Slim "White Russian" | M | December 2019 | [Posted]({% post_url 2020-01-03-Sailor-White-Russian %}) | The Dude |
+| 23 | TWSBI | 580AL Emerald | F | January 2020 | Anticipated | Purchased from Dr. Brownie of BBVP. |
+| 24 | Sailor | 1911L | B | January 2020 | Planned | On order, arriving January 2020 |
+| 25 | Sheaffer | Balance Craftsman Red Carmine | #33, M(I think) | January 2020 | Planned | On order, arriving January 2020.  Likely to send for restoration. |
+| 26 | Pelikan | M215 Rings | EF | January 2020 | Planned | Purchased from Dr. Brownie of BBVP |
 
 ---
 
