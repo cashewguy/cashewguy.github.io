@@ -12,7 +12,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
 | # | Maker | Model | Nib Size | Purchase Date | Review | Notes |
 |---|-------|--------|---------|---------|---------|---------|
 | 01 | Lamy | Safari | M | 2012 | Soon! | F nib replaced by 1.9 Stub 8/30/19 |
-| 02 | Sheaffer | Imperial 440 | F | 2013 | None | Replaced nib unit in 2015 |
+| 02 | Sheaffer | Imperial 440 | M | 2013 | None | ~~Replaced nib unit in 2015~~ Repaired original nib unit 2020.  |
 | 03 | Sheaffer | Viewpoint | "F" | 2014 | None | Seems to have a "Calligraphy" nib that writes like a CI or Oblique |
 | 04 | Parker | 21 | M | 2016 | None | Found in a consignment shop, great writer, but has a small hairline crack. |
 | 05 | Kaweco | Sport Classic | M | May 2019 | None | Bordeaux |
@@ -34,9 +34,11 @@ Here is a list of pens currently in my collection.  I might also include inks in
 | 21 | Pilot | Vanishing Point | M | December 2019 | Planned | Blue Carbonesque, Purchased from BBVP Neko |
 | 22 | Sailor | Pro Gear Slim "White Russian" | M | December 2019 | [Posted]({% post_url 2020-01-03-Sailor-White-Russian %}) | The Dude |
 | 23 | TWSBI | 580AL Emerald | F | January 2020 | Anticipated | Purchased from Dr. Brownie of BBVP. |
-| 24 | Sailor | 1911L | B | January 2020 | Planned | On order, arriving January 2020 |
-| 25 | Sheaffer | Balance Craftsman Red Carmine | #33, M(I think) | January 2020 | Planned | On order, arriving January 2020.  Likely to send for restoration. |
+| 24 | Sailor | 1911L | B | January 2020 | Planned | Lovely pen purchased from PenSachi. |
+| 25 | Sheaffer | Balance Craftsman Red Carmine | #33, M(I think) | January 2020 | Planned | Arriving January 2020.  Will send for restoration @ end of February. |
 | 26 | Pelikan | M215 Rings | EF | January 2020 | Planned | Purchased from Dr. Brownie of BBVP |
+| 27 | Platinum | President | M | February | Planned | Purchased from Pen Swap, arriving soon. |
+| 28 | Platinum | Curidas | M | February 2020 | Someday | Pre-order from Lemur Ink. |
 
 ---
 
@@ -62,14 +64,11 @@ These pens are on my ~~short~~ list...
 
 | Maker | Model | Nib Size | Notes |
 |-------|--------|---------|---------|
-| Platinum | President | M or B | I think I'd like to grab a Blue or Burgandy one. |
-| Sheaffer | Triumph | M | Carmine Required. |
 | Visconti | Homo Sapiens | F or M | Would like the full-size version of my VHS Midi. |
 | Montblanc | 146 | F | Perhaps Burgundy? |
 | Sailor | Pro Gear | M or MF or Music | Also interested in a 1911 |
 | Sailor | King of Pen | M or B | Mandatory for all wishlists. |
 | Pelikan | M1000 | F or M | Need more BIG pens. |
-| Platinum | Curidas | M or B | Will it be good?  Will it be bad? |
 | Pilot | Vanishing Point | F | Stripes |
 | Newton | Sumpter | M | Considering a Blue & Orange something. |
 | Opus | 88 | B | Demonstrator |
@@ -77,3 +76,6 @@ These pens are on my ~~short~~ list...
 | Montegrappa | EXTRA 1930 | M | The only Montegrappa I've been struck by. |
 | Nettuno | "God of the Sea" | M | Limited Edition |
 | Conid | Bulkfiller | M? | Kingsize, perhaps. |
+| ~~Platinum~~ | ~~President~~ | ~~M or B~~ | ~~I think I'd like to grab a Blue or Burgandy one.~~ |
+| ~~Sheaffer~~ | ~~Triumph~~ | ~~M~~ | ~~Carmine Required.~~ |
+| ~~Platinum~~ | ~~Curidas~~ | ~~M or B~~ | ~~Will it be good?  Will it be bad?~~ |

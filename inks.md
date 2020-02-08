@@ -31,3 +31,19 @@ Here is a list of inks currently in my collection.
 | 18 | Herbin | Lie De Thé | Probably! | Currently in a Jinhao 599 to test, I'm having mixed reactions to it. |
 | 19 | Diamine | Registrar's | Probably! | Currently in my Vanishing Point.  Purchased from Dr. Brownie of BBVP. |
 | 20 | KWZ | Warsaw Dreaming | Probably! | Currently in my M215.  Purchased from Vanness. |
+
+---
+
+## Samples!
+
+---
+
+| Maker | Name | Thoughts | Verdict |
+|-------|--------|---------|---------|
+| De Artramentis | Plum | Lovely!  Interesting smell... Testing in my 149 and I really like it. | Likely to purchase. |
+| Akkerman | Shocking Blue | Untested.  Hoping to put this in the incoming Platinum President. | To come. |
+| Edelstein | Jade | Untested.  Perhaps destined for my incoming Curidas Urban Green? | To come. |
+| Robert Oster | Muddy Crown | Untested. | To come. |
+| Robert Oster | Muddy Dragon | Untested. | To come. |
+| Pilot | Syo-ro | Untested. | To come. |
+| Sailor | Yama Dori | Untested. | To come. |
