@@ -13,7 +13,9 @@ Here is a list of books I've read or am currently reading in 2020:
 |-------|--------|---------|---------|
 | *A Connecticut Yankee in King Arthur's Court* | Mark Twain | 12/30/19 | Planned |
 | *The Adventures of Tom Sawyer* | Mark Twain | 1/6/20 | Planned |
-| *A Moveable Feast* | Ernest Hemingway | In Progress | |
+| *A Moveable Feast* | Ernest Hemingway | 1/13/20 | Planned |
+| *Peter Pan* | J. M. Barrie | 1/21/2020 | Not Planned |
+| *Breakfast of Champions* | Kurt Vonnegut | 1/27/2020 | Maybe |
 | *Les Misérable* | Victor Hugo | In Progress | |
 | *Song of Susannah* (The Dark Tower VI) | Stephen King | In Progress | |
 
