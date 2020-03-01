@@ -38,7 +38,8 @@ Here is a list of pens currently in my collection.  I might also include inks in
 | 25 | Sheaffer | Balance Craftsman Red Carmine | #33, M(I think) | January 2020 | Planned | Arriving January 2020.  Will send for restoration @ end of February. |
 | 26 | Pelikan | M215 Rings | EF | January 2020 | Planned | Purchased from Dr. Brownie of BBVP |
 | 27 | Platinum | President | M | February | Planned | Purchased from Pen Swap, arriving soon. |
-| 28 | Platinum | Curidas | M | February 2020 | Someday | Pre-order from Lemur Ink. |
+| 28 | Platinum | Curidas | M | March 2020 | Someday | Pre-order from Lemur Ink. |
+| 29 | Wancher X Sailor | Shamrock Green | Z | March 2020 | Soon! | Called the "Sparkling Emerald" in some marketplaces. |
 
 ---
 
