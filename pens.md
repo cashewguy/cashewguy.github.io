@@ -65,10 +65,9 @@ These pens are on my ~~short~~ list...
 
 | Maker | Model | Nib Size | Notes |
 |-------|--------|---------|---------|
+| Sailor | King of Pen | M or B | Orange Tangering or Fire Special Edition PG |
 | Visconti | Homo Sapiens | F or M | Would like the full-size version of my VHS Midi. |
 | Montblanc | 146 | F | Perhaps Burgundy? |
-| Sailor | Pro Gear | M or MF or Music | Also interested in a 1911 |
-| Sailor | King of Pen | M or B | Mandatory for all wishlists. |
 | Pelikan | M1000 | F or M | Need more BIG pens. |
 | Pilot | Vanishing Point | F | Stripes |
 | Newton | Sumpter | M | Considering a Blue & Orange something. |
@@ -77,6 +76,7 @@ These pens are on my ~~short~~ list...
 | Montegrappa | EXTRA 1930 | M | The only Montegrappa I've been struck by. |
 | Nettuno | "God of the Sea" | M | Limited Edition |
 | Conid | Bulkfiller | M? | Kingsize, perhaps. |
+| ~~Sailor~~ | ~~Pro Gear~~ | ~~M or MF or Music~~ | ~~Also interested in a 1911~~ |
 | ~~Platinum~~ | ~~President~~ | ~~M or B~~ | ~~I think I'd like to grab a Blue or Burgandy one.~~ |
 | ~~Sheaffer~~ | ~~Triumph~~ | ~~M~~ | ~~Carmine Required.~~ |
 | ~~Platinum~~ | ~~Curidas~~ | ~~M or B~~ | ~~Will it be good?  Will it be bad?~~ |
