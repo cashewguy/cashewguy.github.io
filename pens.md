@@ -65,7 +65,7 @@ These pens are on my ~~short~~ list...
 
 | Maker | Model | Nib Size | Notes |
 |-------|--------|---------|---------|
-| Sailor | King of Pen | M or B | Orange Tangering or Fire Special Edition PG |
+| Sailor | King of Pen | M or B | Orange Tangerine or Fire Special Edition PG |
 | Visconti | Homo Sapiens | F or M | Would like the full-size version of my VHS Midi. |
 | Montblanc | 146 | F | Perhaps Burgundy? |
 | Pelikan | M1000 | F or M | Need more BIG pens. |
