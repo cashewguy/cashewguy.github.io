@@ -15,7 +15,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
 | 02 | Sheaffer | Imperial 440 | M | 2013 | None | ~~Replaced nib unit in 2015~~ Repaired original nib unit 2020.  |
 | 03 | Sheaffer | Viewpoint | "F" | 2014 | None | Seems to have a "Calligraphy" nib that writes like a CI or Oblique |
 | 04 | Parker | 21 | M | 2016 | None | Found in a consignment shop, great writer, but has a small hairline crack. |
-| 05 | Kaweco | Sport Classic | M | May 2019 | None | Bordeaux |
+| 05 | Kaweco | Sport Classic | M | May 2019 | [Posted]({% post_url 2020-04-07-Kaweco-Classic-Sport %}) | Bordeaux |
 | 06 | TWSBI | VAC-700R | F | May 2019 | None | Clear |
 | 07 | Visconti | Van Gogh | F | June 2019 | [Posted]({% post_url 2019-08-02-Visconti-Van-Gogh %}) | Self Portrait in Blue, CI nib by Mark Bacas |
 | 08 | Visconti | Homo Sapiens | F | August 2019 | [Posted]({% post_url 2019-08-21-Visconti-Homo-Sapiens-midi %}) | Midi, Bronze Age |
@@ -34,8 +34,8 @@ Here is a list of pens currently in my collection.  I might also include inks in
 | 21 | Pilot | Vanishing Point | M | December 2019 | Planned | Blue Carbonesque, Purchased from BBVP Neko |
 | 22 | Sailor | Pro Gear Slim "White Russian" | M | December 2019 | [Posted]({% post_url 2020-01-03-Sailor-White-Russian %}) | The Dude |
 | 23 | TWSBI | 580AL Emerald | F | January 2020 | Anticipated | Purchased from Dr. Brownie of BBVP. |
-| 24 | Sailor | 1911L | B | January 2020 | Planned | Lovely pen purchased from PenSachi. |
-| 25 | Sheaffer | Balance Craftsman Red Carmine | #33, M(I think) | January 2020 | Planned | Arriving January 2020.  Will send for restoration @ end of February. |
+| 24 | Sailor | 1911L | B | January 2020 | [Posted]({% post_url 2020-04-07-Sailor-1911L %}) | Lovely pen purchased from PenSachi. |
+| 25 | Sheaffer | Balance Craftsman Red Carmine | #33, M(I think) | January 2020 | Planned | Being rested by Stacy Hills. |
 | 26 | Pelikan | M215 Rings | EF | January 2020 | Planned | Purchased from Dr. Brownie of BBVP |
 | 27 | Platinum | President | M | February | Planned | Purchased from Pen Swap, arriving soon. |
 | 28 | Platinum | Curidas | M | March 2020 | Someday | Pre-order from Lemur Ink. |
