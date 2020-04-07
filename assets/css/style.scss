@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Alegreya&display=swap');
 
+
 body {
 	  background: #07131E;
 }
@@ -49,7 +50,7 @@ p{
 
 footer {
 	background: #14151D; 
-	width: 100%;
+	/*width: 90%;*/
 	padding:10px;
 	text-align:center;
 }
