@@ -40,7 +40,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
 | 27 | Platinum | President | M | February | Planned | Purchased from Pen Swap, arriving soon. |
 | 28 | Platinum | Curidas | M | March 2020 | Someday | Pre-order from Lemur Ink. |
 | 29 | Wancher X Sailor | Shamrock Green | Z | March 2020 | [Posted]({% post_url 2020-04-08-Wancher-X-Sailor-Shamrock-Green-Pro-Gear %}) | Called the "Sparkling Emerald" in some marketplaces. |
-| 30 | Franklin-Christoph | Model 66 Stabilis | Masuyama M Stub | March 2020 | Soon! | Antique Glass.  Eventually will have a Seagull nib.  Eyedroppered. |
+| 30 | Franklin-Christoph | Model 66 Stabilis | Masuyama M Stub | March 2020 | [Posted]({% post_url 2020-04-09-Franklin-Christoph-Model-66 %}) | Antique Glass.  Eventually will have a Seagull nib.  Eyedroppered. |
 
 ---
 
