@@ -100,3 +100,12 @@ A comparison to 9/11 is one that I hesitate to make; at first, because the condi
 There was also a tension between the "See Something Say Something" mindset and the *demand* by the people that life not grind to a halt.  A refusal to let that one event be the death of regular life.  Even in the terrible offspring of that day - encroachments of civil liberties, growing racism, and death in war - everyday people were shaken but refused to severely alter their ways of living.  For a moment, there was an intense feeling of connection across the country, evident to everyone.
 
 Coronavirus isn't a midmorning tragedy, unfortunately.  It is a combine, slowly churning across the whole Earth.  Indiscriminate of color, creed, or age.  The healing actions of past tragedies do nothing but enflame this one.  So for now, we're all making do with lifestyles unfamiliar and uncomfortable to us.  Some pray, some hope, and others simply say to themselves that this will have to end someday.  That when it does, the children of this tragedy should hope to be a more global sense of lived experience, of empathy, and of the knowledge that we survived and will be the better for it.
+
+<hr>
+
+Written with:
+
+* Franklin-Christoph Model 66, inked with Random Allocation Matin Brumeux - written dry.
+* Kaweco Classic Sport, inked with Monteverde Coral - written dry.
+* Visconti Homo Sapiens Midi, inked with Pilot Iroshizuku Kon-Peki.
+* Rhodia No 19 Yellow Pad.
