@@ -31,14 +31,14 @@ Here is a list of pens currently in my collection.  I might also include inks in
 | 18 | Baoer | 51 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
 | 19 | Parker | "15" | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer - Nice pen, plastic body, eyedroppered |
 | 20 | Jinhao | 599 | M | December 2019 | Maybe | x8 Purchased to practice some nibwork |
-| 21 | Pilot | Vanishing Point | M | December 2019 | Planned | Blue Carbonesque, Purchased from BBVP Neko |
+| 21 | Pilot | Vanishing Point | M | December 2019 | [Posted]({% post_url 2020-04-16-Platinum-Curidas-Pilot-VP %}) | Blue Carbonesque, Purchased from BBVP Neko |
 | 22 | Sailor | Pro Gear Slim "White Russian" | M | December 2019 | [Posted]({% post_url 2020-01-03-Sailor-White-Russian %}) | The Dude |
 | 23 | TWSBI | 580AL Emerald | F | January 2020 | Anticipated | Purchased from Dr. Brownie of BBVP. |
 | 24 | Sailor | 1911L | B | January 2020 | [Posted]({% post_url 2020-04-07-Sailor-1911L %}) | Lovely pen purchased from PenSachi. |
 | 25 | Sheaffer | Balance Craftsman Red Carmine | #33, M(I think) | January 2020 | Planned | Being rested by Stacy Hills. |
 | 26 | Pelikan | M215 Rings | EF | January 2020 | Planned | Purchased from Dr. Brownie of BBVP |
 | 27 | Platinum | President | M | February | Planned | Purchased from Pen Swap, arriving soon. |
-| 28 | Platinum | Curidas | M | March 2020 | Someday | Pre-order from Lemur Ink. |
+| 28 | Platinum | Curidas | M | March 2020 | [Posted]({% post_url 2020-04-16-Platinum-Curidas-Pilot-VP %}) | Pre-ordered from Lemur Ink. |
 | 29 | Wancher X Sailor | Shamrock Green | Z | March 2020 | [Posted]({% post_url 2020-04-08-Wancher-X-Sailor-Shamrock-Green-Pro-Gear %}) | Called the "Sparkling Emerald" in some marketplaces. |
 | 30 | Franklin-Christoph | Model 66 Stabilis | Masuyama M Stub | March 2020 | [Posted]({% post_url 2020-04-09-Franklin-Christoph-Model-66 %}) | Antique Glass.  Eventually will have a Seagull nib.  Eyedroppered. |
 
