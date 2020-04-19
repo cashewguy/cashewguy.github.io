@@ -95,3 +95,45 @@ hr:after {
 .page_number {
     position: right;
 }*/
+
+/* DATATABLES */
+
+.dataTables_wrapper {
+    background-color: #07131E;
+}
+
+table {
+    color:#A99F8A !important;
+}
+
+label {
+    font-size: 1.5em;
+    font-family: 'Alegreya', serif;
+    color:#A99F8A;
+}
+
+input {
+    font-size: 1em;
+    font-family: 'Alegreya', serif;
+    background-color: #003966;
+    color:#A99F8A;
+    border-color: #04233D;
+}
+
+tbody {
+        background-color:#07131E !important;
+        border-bottom-left-radius: 5px !important;
+        border-bottom-right-radius: 5px !important;
+}
+
+tr {
+        background-color:#07131E !important;
+}
+
+.odd {
+    background-color: #051B30 !important;
+}
+
+tr:hover {
+        background-color: #003363 !important;
+}

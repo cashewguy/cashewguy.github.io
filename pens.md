@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Pen Collection"
+title: "Pen Collection Datatable"
 ---
 
 # Pen Collection
@@ -9,38 +9,291 @@ Here is a list of pens currently in my collection.  I might also include inks in
 
 ---
 
-| # | Maker | Model | Nib Size | Purchase Date | Review | Notes |
-|---|-------|--------|---------|---------|---------|---------|
-| 01 | Lamy | Safari | M | 2012 | Soon! | F nib replaced by 1.9 Stub 8/30/19 |
-| 02 | Sheaffer | Imperial 440 | M | 2013 | None | ~~Replaced nib unit in 2015~~ Repaired original nib unit 2020.  |
-| 03 | Sheaffer | Viewpoint | "F" | 2014 | None | Seems to have a "Calligraphy" nib that writes like a CI or Oblique |
-| 04 | Parker | 21 | M | 2016 | None | Found in a consignment shop, great writer, but has a small hairline crack. |
-| 05 | Kaweco | Sport Classic | M | May 2019 | [Posted]({% post_url 2020-04-07-Kaweco-Classic-Sport %}) | Bordeaux |
-| 06 | TWSBI | VAC-700R | F | May 2019 | None | Clear |
-| 07 | Visconti | Van Gogh | F | June 2019 | [Posted]({% post_url 2019-08-02-Visconti-Van-Gogh %}) | Self Portrait in Blue, CI nib by Mark Bacas |
-| 08 | Visconti | Homo Sapiens | F | August 2019 | [Posted]({% post_url 2019-08-21-Visconti-Homo-Sapiens-midi %}) | Midi, Bronze Age |
-| 09 | Platinum | 3776 | EF | August 2019 | [Posted]({% post_url 2019-08-24-Platinum-3776 %}) | Bourgogne |
-| 10 | Montblanc | 149 | M | September 2019 | [Posted]({% post_url 2019-12-27-Montblanc-149 %}) | Tuned by Bacas |
-| 11 | Sheaffer | No Nonsense | M | September 2019 | Planned | Green Flattop |
-| 12 | Jinhao | X450 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
-| 13 | Unbranded | "Rosewood" | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
-| 14 | Baoer | 508 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
-| 15 | Hero | 9038 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
-| 16 | Jinhao | 159 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
-| 17 | Duke | 209 | Fude | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer - might be broken as it seems to dry out. |
-| 18 | Baoer | 51 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
-| 19 | Parker | "15" | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer - Nice pen, plastic body, eyedroppered |
-| 20 | Jinhao | 599 | M | December 2019 | Maybe | x8 Purchased to practice some nibwork |
-| 21 | Pilot | Vanishing Point | M | December 2019 | [Posted]({% post_url 2020-04-16-Platinum-Curidas-Pilot-VP %}) | Blue Carbonesque, Purchased from BBVP Neko |
-| 22 | Sailor | Pro Gear Slim "White Russian" | M | December 2019 | [Posted]({% post_url 2020-01-03-Sailor-White-Russian %}) | The Dude |
-| 23 | TWSBI | 580AL Emerald | F | January 2020 | Anticipated | Purchased from Dr. Brownie of BBVP. |
-| 24 | Sailor | 1911L | B | January 2020 | [Posted]({% post_url 2020-04-07-Sailor-1911L %}) | Lovely pen purchased from PenSachi. |
-| 25 | Sheaffer | Balance Craftsman Red Carmine | #33, M(I think) | January 2020 | Planned | Being rested by Stacy Hills. |
-| 26 | Pelikan | M215 Rings | EF | January 2020 | Planned | Purchased from Dr. Brownie of BBVP |
-| 27 | Platinum | President | M | February | Planned | Purchased from Pen Swap, arriving soon. |
-| 28 | Platinum | Curidas | M | March 2020 | [Posted]({% post_url 2020-04-16-Platinum-Curidas-Pilot-VP %}) | Pre-ordered from Lemur Ink. |
-| 29 | Wancher X Sailor | Shamrock Green | Z | March 2020 | [Posted]({% post_url 2020-04-08-Wancher-X-Sailor-Shamrock-Green-Pro-Gear %}) | Called the "Sparkling Emerald" in some marketplaces. |
-| 30 | Franklin-Christoph | Model 66 Stabilis | Masuyama M Stub | March 2020 | [Posted]({% post_url 2020-04-09-Franklin-Christoph-Model-66 %}) | Antique Glass.  Eventually will have a Seagull nib.  Eyedroppered. |
+<table id="myTable" class="">
+  <thead>
+  <tr>
+    <th>﻿#</th>
+    <th>Maker</th>
+    <th>Model</th>
+    <th>Nib Size</th>
+    <th>Purchase Date</th>
+    <th>Review</th>
+    <th>Notes</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>1</td>
+    <td>Lamy</td>
+    <td>Safari</td>
+    <td>M</td>
+    <td>2012</td>
+    <td>Soon!</td>
+    <td>F nib replaced by 1.9 Stub 8/30/19</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Sheaffer</td>
+    <td>Imperial 440</td>
+    <td>M</td>
+    <td>2013</td>
+    <td>None</td>
+    <td>Replaced nib unit in 2015 Repaired original nib unit 2020.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Sheaffer</td>
+    <td>Viewpoint</td>
+    <td>“F”</td>
+    <td>2014</td>
+    <td>None</td>
+    <td>Seems to have a “Calligraphy” nib that writes like a CI or Oblique</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Parker</td>
+    <td>21</td>
+    <td>M</td>
+    <td>2016</td>
+    <td>None</td>
+    <td>Found in a consignment shop, great writer, but has a small hairline crack.</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Kaweco</td>
+    <td>Sport Classic</td>
+    <td>M</td>
+    <td>May 2019</td>
+    <td><a href="{% post_url 2020-04-07-Kaweco-Classic-Sport %}">Posted</a></td>
+    <td>Bordeaux</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>TWSBI</td>
+    <td>VAC-700R</td>
+    <td>F</td>
+    <td>May 2019</td>
+    <td>None</td>
+    <td>Clear</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Visconti</td>
+    <td>Van Gogh</td>
+    <td>F</td>
+    <td>June 2019</td>
+    <td><a href="{% post_url 2019-08-02-Visconti-Van-Gogh %}">Posted</a></td>
+    <td>Self Portrait in Blue, CI nib by Mark Bacas</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Visconti</td>
+    <td>Homo Sapiens</td>
+    <td>F</td>
+    <td>August 2019</td>
+    <td><a href="{% post_url 2019-08-21-Visconti-Homo-Sapiens-midi %}">Posted</a></td>
+    <td>Midi, Bronze Age</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Platinum</td>
+    <td>3776</td>
+    <td>EF</td>
+    <td>August 2019</td>
+    <td><a href="{% post_url 2019-08-24-Platinum-3776 %}">Posted</a></td>
+    <td>Bourgogne</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Montblanc</td>
+    <td>149</td>
+    <td>M</td>
+    <td>September 2019</td>
+    <td><a href="{% post_url 2019-12-27-Montblanc-149 %}">Posted</a></td>
+    <td>Tuned by Bacas</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Sheaffer</td>
+    <td>No Nonsense</td>
+    <td>M</td>
+    <td>September 2019</td>
+    <td>Planned</td>
+    <td>Green Flattop</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Jinhao</td>
+    <td>X450</td>
+    <td>M</td>
+    <td>November 2019</td>
+    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
+    <td>Pen Swap Stocking Stuffer</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>Unbranded</td>
+    <td>“Rosewood”</td>
+    <td>M</td>
+    <td>November 2019</td>
+    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
+    <td>Pen Swap Stocking Stuffer</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Baoer</td>
+    <td>508</td>
+    <td>M</td>
+    <td>November 2019</td>
+    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
+    <td>Pen Swap Stocking Stuffer</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Hero</td>
+    <td>9038</td>
+    <td>M</td>
+    <td>November 2019</td>
+    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
+    <td>Pen Swap Stocking Stuffer</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>Jinhao</td>
+    <td>159</td>
+    <td>M</td>
+    <td>November 2019</td>
+    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
+    <td>Pen Swap Stocking Stuffer</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>Duke</td>
+    <td>209</td>
+    <td>Fude</td>
+    <td>November 2019</td>
+    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
+    <td>Pen Swap Stocking Stuffer - might be broken as it seems to dry out.</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>Baoer</td>
+    <td>51</td>
+    <td>M</td>
+    <td>November 2019</td>
+    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
+    <td>Pen Swap Stocking Stuffer</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>Parker</td>
+    <td>“15”</td>
+    <td>M</td>
+    <td>November 2019</td>
+    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
+    <td>Pen Swap Stocking Stuffer - Nice pen, plastic body, eyedroppered</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Jinhao</td>
+    <td>599</td>
+    <td>M</td>
+    <td>December 2019</td>
+    <td>Maybe</td>
+    <td>x8 Purchased to practice some nibwork</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>Pilot</td>
+    <td>Vanishing Point</td>
+    <td>M</td>
+    <td>December 2019</td>
+    <td><a href="{% post_url 2020-04-16-Platinum-Curidas-Pilot-VP %}">Posted</a></td>
+    <td>Blue Carbonesque, Purchased from BBVP Neko</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>Sailor</td>
+    <td>Pro Gear Slim “White Russian”</td>
+    <td>M</td>
+    <td>December 2019</td>
+    <td><a href="{% post_url 2020-01-03-Sailor-White-Russian %}">Posted</a></td>
+    <td>The Dude</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>TWSBI</td>
+    <td>580AL Emerald</td>
+    <td>F</td>
+    <td>January 2020</td>
+    <td>Soon!</td>
+    <td>Purchased from Dr. Brownie of BBVP.  Purchased a 1.1 Stub nib for this pen.</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>Sailor</td>
+    <td>1911L</td>
+    <td>B</td>
+    <td>January 2020</td>
+    <td><a href="{% post_url 2020-04-07-Sailor-1911L %}">Posted</a></td>
+    <td>Lovely pen purchased from PenSachi.</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>Sheaffer</td>
+    <td>1945 Craftsman Red Carmine</td>
+    <td>#33 (F)</td>
+    <td>January 2020</td>
+    <td>Soon!</td>
+    <td>Restored by Stacy Hills.</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>Pelikan</td>
+    <td>M215 Rings</td>
+    <td>EF</td>
+    <td>January 2020</td>
+    <td>Planned</td>
+    <td>Purchased from Dr. Brownie of BBVP</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>Platinum</td>
+    <td>President</td>
+    <td>M</td>
+    <td>February 2020</td>
+    <td>Planned</td>
+    <td>Purchased from Pen Swap, arriving soon.</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>Platinum</td>
+    <td>Curidas</td>
+    <td>M</td>
+    <td>March 2020</td>
+    <td><a href="{% post_url 2020-04-16-Platinum-Curidas-Pilot-VP %}">Posted</a></td>
+    <td>Ordered from Lemur Ink.</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>Wancher X Sailor</td>
+    <td>Shamrock Green</td>
+    <td>Z</td>
+    <td>March 2020</td>
+    <td><a href="{% post_url 2020-04-08-Wancher-X-Sailor-Shamrock-Green-Pro-Gear %}">Posted</a></td>
+    <td>Called the “Sparkling Emerald” in some marketplaces.</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>Franklin-Christoph</td>
+    <td>Model 66 Stabilis</td>
+    <td>Masuyama M Stub</td>
+    <td>March 2020</td>
+    <td><a href="{% post_url 2020-04-09-Franklin-Christoph-Model-66 %}">Posted</a></td>
+    <td>Antique Glass. Eventually will have a Seagull nib. Eyedroppered.</td>
+  </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -62,13 +315,13 @@ Pens no longer in my collection, for one reason or another...
 
 ---
 
-These pens are on my ~~short~~ list...
+These pens are on my ~~short~~ list, roughly in order...
 
 | Maker | Model | Nib Size | Notes |
 |-------|--------|---------|---------|
+| Montblanc | Victor Hugo | M or B | Rumored for June 2020 Writer's Edition |
 | Sailor | King of Pen | M or B | Orange Tangerine or Fire Special Edition PG |
-| Visconti | Homo Sapiens | F or M | Would like the full-size version of my VHS Midi. |
-| Montblanc | 146 | F | Perhaps Burgundy? |
+| Conid | Bulkfiller | M? | Kingsize, perhaps. |
 | Pelikan | M1000 | F or M | Need more BIG pens. |
 | Pilot | Vanishing Point | F | Stripes |
 | Newton | Sumpter | M | Considering a Blue & Orange something. |
@@ -76,8 +329,16 @@ These pens are on my ~~short~~ list...
 | Wahl-Eversharp | Decoband Rosewood | M |  |
 | Montegrappa | EXTRA 1930 | M | The only Montegrappa I've been struck by. |
 | Nettuno | "God of the Sea" | M | Limited Edition |
-| Conid | Bulkfiller | M? | Kingsize, perhaps. |
-| ~~Sailor~~ | ~~Pro Gear~~ | ~~M or MF or Music~~ | ~~Also interested in a 1911~~ |
-| ~~Platinum~~ | ~~President~~ | ~~M or B~~ | ~~I think I'd like to grab a Blue or Burgandy one.~~ |
-| ~~Sheaffer~~ | ~~Triumph~~ | ~~M~~ | ~~Carmine Required.~~ |
-| ~~Platinum~~ | ~~Curidas~~ | ~~M or B~~ | ~~Will it be good?  Will it be bad?~~ |
+| Montblanc | 146 | F | Perhaps Burgundy? |
+| Visconti | Homo Sapiens | F or M | Would like the full-size version of my VHS Midi. |
+
+---
+
+<script>
+$(document).ready( function () {
+    $('#myTable').DataTable({
+    	paging:false,
+    	scrollY:600
+    });
+} );
+</script>
