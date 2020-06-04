@@ -11,7 +11,7 @@ Here is a list of books I've read or am currently reading in 2020:
 
 | Title | Author | Finished Date | Review? |
 |-------|--------|---------|---------|
-| *A Farewell to Arms* | Ernest Hemingway | In Progress | |
+| *The Stranger* | Albert Camus | In Progress | |
 | *The Education of an Idealist* | Samantha Power | In Progress | |
 | *Les Misérable* | Victor Hugo | In Progress | |
 | *A Connecticut Yankee in King Arthur's Court* | Mark Twain | 12/30/19 | Planned |
@@ -23,7 +23,7 @@ Here is a list of books I've read or am currently reading in 2020:
 | *The World as It Is* | Ben Rhodes | 4/26/2020 | None. |
 | *Song of Susannah* (The Dark Tower VI) | Stephen King | 4/28/2020 | |
 | *The Dark Tower* (The Dark Tower VII) | Stephen King | 5/16/2020 | |
-
+| *A Farewell to Arms* | Ernest Hemingway | 6/2/2020 | |
 
 ---
 
@@ -36,7 +36,6 @@ These books are on my list to read this year.  * denotes a re-read:
 | Title | Author |
 |-------|--------|
 | *The Gambler* | Fyodor Dostoevsky |
-| *The Stranger* | Albert Camus |
 | *The Hunchback of Notre Dame* | Victor Hugo |
 | *A Problem from Hell: America & the Age of Genocide* | Samantha Power |
 | *The Odyssey* \* | Homer (Emily Wilson Translation) |
