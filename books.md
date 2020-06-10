@@ -11,7 +11,6 @@ Here is a list of books I've read or am currently reading in 2020:
 
 | Title | Author | Finished Date | Review? |
 |-------|--------|---------|---------|
-| *The Stranger* | Albert Camus | In Progress | |
 | *The Education of an Idealist* | Samantha Power | In Progress | |
 | *Les Misérable* | Victor Hugo | In Progress | |
 | *A Connecticut Yankee in King Arthur's Court* | Mark Twain | 12/30/19 | Planned |
@@ -24,6 +23,9 @@ Here is a list of books I've read or am currently reading in 2020:
 | *Song of Susannah* (The Dark Tower VI) | Stephen King | 4/28/2020 | |
 | *The Dark Tower* (The Dark Tower VII) | Stephen King | 5/16/2020 | |
 | *A Farewell to Arms* | Ernest Hemingway | 6/2/2020 | |
+| *The Stranger* | Albert Camus | 6/8/2020 | |
+
+As of 6/9/2020, focusing on *Les Miserables* for a while, so unlikely to have anything new here for a bit.
 
 ---
 
