@@ -292,6 +292,15 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td><a href="{% post_url 2020-04-09-Franklin-Christoph-Model-66 %}">Posted</a></td>
     <td>Antique Glass. Eventually will have a Seagull nib. Eyedroppered.</td>
   </tr>
+  <tr>
+    <td>31</td>
+    <td>TWSBI</td>
+    <td>Diamond 580AL R Prussian Blue</td>
+    <td>B</td>
+    <td>May 2020</td>
+    <td>Soon</td>
+    <td>Prussian Blue, very pretty, first inked with R.O. Bondi Blue.</td>
+  </tr>
   </tbody>
 </table>
 

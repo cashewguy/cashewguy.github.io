@@ -31,10 +31,11 @@ Here is a list of inks currently in my collection.
 | 18 | Herbin | Lie De Thé | Probably! | Currently in a Jinhao 599 to test, I'm having mixed reactions to it. |
 | 19 | Diamine | Registrar's | None. | Currently in my Vanishing Point.  Purchased from Dr. Brownie of BBVP. |
 | 20 | KWZ | Warsaw Dreaming | Probably! | Currently in my M215.  Purchased from Vanness. |
-| 21 | Papier Plume | 011 | Probably! | Incoming.  Purchased from Dr. Brownie of BBVP. |
-| 22 | Papier Plume | Lake Michigan Winter | Probably! | Incoming.  Purchased from Dr. Brownie of BBVP. |
-| 23 | De Atramentis | Sepia Brown | Probably! | Incoming.  Purchased from Dr. Brownie of BBVP. |
-| 24 | KWZ | Berry | Probably! | Incoming.  Purchased from Dr. Brownie of BBVP. |
+| 21 | Papier Plume | 011 | Probably! | Purchased from Dr. Brownie of BBVP. |
+| 22 | Papier Plume | Lake Michigan Winter | Probably! |  Purchased from Dr. Brownie of BBVP. |
+| 23 | De Atramentis | Sepia Brown | Probably! | Purchased from Dr. Brownie of BBVP. |
+| 24 | KWZ | Berry | Probably! |  Purchased from Dr. Brownie of BBVP. |
+| 25 | Montblanc | Homer Greek Blue | Possibly | Incoming. |
 
 ---
 
@@ -51,3 +52,4 @@ Here is a list of inks currently in my collection.
 | Robert Oster | Muddy Dragon | Tested in FC-66, liked it a lot | Likely to purchase. |
 | Sailor | Yama Dori | Currently in my MB 149 and it's a fantastic ink. | Likely to purchase. |
 | Pilot | Syo-ro | Untested. | To come. |
+| Robert Oster | Bondi Blue | Very nice blue | Might buy a bottle |
