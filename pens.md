@@ -310,6 +310,15 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Soon</td>
     <td>Emerald & DC Green; June FC Pen Show</td>
   </tr>
+  <tr>
+    <td>33</td>
+    <td>Montblanc</td>
+    <td>Victor Hugo, 2020 WE LE</td>
+    <td>M</td>
+    <td>July 2020</td>
+    <td>Soon</td>
+    <td>2020 Writer's Edition Limited Edition, along with Victor Hugo ink.</td>
+  </tr>
   </tbody>
 </table>
 
