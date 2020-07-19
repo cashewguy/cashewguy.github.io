@@ -301,6 +301,15 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Soon</td>
     <td>Prussian Blue, very pretty, first inked with R.O. Bondi Blue.</td>
   </tr>
+  <tr>
+    <td>32</td>
+    <td>Franklin-Christoph</td>
+    <td>Model 46L SE</td>
+    <td>M S.I.G.</td>
+    <td>June 2020</td>
+    <td>Soon</td>
+    <td>Emerald & DC Green; June FC Pen Show</td>
+  </tr>
   </tbody>
 </table>
 
