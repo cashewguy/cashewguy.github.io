@@ -35,7 +35,8 @@ Here is a list of inks currently in my collection.
 | 22 | Papier Plume | Lake Michigan Winter | Probably! |  Purchased from Dr. Brownie of BBVP. |
 | 23 | De Atramentis | Sepia Brown | Probably! | Purchased from Dr. Brownie of BBVP. |
 | 24 | KWZ | Berry | Probably! |  Purchased from Dr. Brownie of BBVP. |
-| 25 | Montblanc | Homer Greek Blue | Possibly | Incoming. |
+| 25 | Montblanc | Homer Greek Blue | Possibly | Lovely blue ink. |
+| 26 | Montblanc | Victor Hugo Sepia Brown | Possibly | Incoming. |
 
 ---
 
