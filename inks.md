@@ -37,6 +37,9 @@ Here is a list of inks currently in my collection.
 | 24 | KWZ | Berry | Probably! |  Purchased from Dr. Brownie of BBVP. |
 | 25 | Montblanc | Homer Greek Blue | Possibly | Lovely blue ink. |
 | 26 | Montblanc | Victor Hugo Sepia Brown | Possibly | Incoming. |
+| 27 | Montblanc | Chinese Blue | Possibly | |
+| 28 | Sailor | Ink Studio 950 | Possibly | |
+| 29 | Sailor | Ink Studio 960 | Possibly | |
 
 ---
 
