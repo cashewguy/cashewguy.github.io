@@ -40,6 +40,7 @@ Here is a list of inks currently in my collection.
 | 27 | Montblanc | Chinese Blue | Possibly | |
 | 28 | Sailor | Ink Studio 950 | Possibly | |
 | 29 | Sailor | Ink Studio 960 | Possibly | |
+| 30 | Maruzen | Athena / Eternal Blue Nihonbashi | Possibly | |
 
 ---
 

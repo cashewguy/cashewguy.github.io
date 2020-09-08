@@ -87,15 +87,6 @@ Here is a list of pens currently in my collection.  I might also include inks in
   </tr>
   <tr>
     <td>8</td>
-    <td>Visconti</td>
-    <td>Homo Sapiens</td>
-    <td>F</td>
-    <td>August 2019</td>
-    <td><a href="{% post_url 2019-08-21-Visconti-Homo-Sapiens-midi %}">Posted</a></td>
-    <td>Midi, Bronze Age</td>
-  </tr>
-  <tr>
-    <td>9</td>
     <td>Platinum</td>
     <td>3776</td>
     <td>EF</td>
@@ -104,7 +95,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Bourgogne</td>
   </tr>
   <tr>
-    <td>10</td>
+    <td>9</td>
     <td>Montblanc</td>
     <td>149</td>
     <td>M</td>
@@ -113,7 +104,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Tuned by Bacas</td>
   </tr>
   <tr>
-    <td>11</td>
+    <td>10</td>
     <td>Sheaffer</td>
     <td>No Nonsense</td>
     <td>M</td>
@@ -122,52 +113,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Green Flattop</td>
   </tr>
   <tr>
-    <td>12</td>
-    <td>Jinhao</td>
-    <td>X450</td>
-    <td>M</td>
-    <td>November 2019</td>
-    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
-    <td>Pen Swap Stocking Stuffer</td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td>Unbranded</td>
-    <td>“Rosewood”</td>
-    <td>M</td>
-    <td>November 2019</td>
-    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
-    <td>Pen Swap Stocking Stuffer</td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td>Baoer</td>
-    <td>508</td>
-    <td>M</td>
-    <td>November 2019</td>
-    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
-    <td>Pen Swap Stocking Stuffer</td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td>Hero</td>
-    <td>9038</td>
-    <td>M</td>
-    <td>November 2019</td>
-    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
-    <td>Pen Swap Stocking Stuffer</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>Jinhao</td>
-    <td>159</td>
-    <td>M</td>
-    <td>November 2019</td>
-    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
-    <td>Pen Swap Stocking Stuffer</td>
-  </tr>
-  <tr>
-    <td>17</td>
+    <td>11</td>
     <td>Duke</td>
     <td>209</td>
     <td>Fude</td>
@@ -176,16 +122,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Pen Swap Stocking Stuffer - might be broken as it seems to dry out.</td>
   </tr>
   <tr>
-    <td>18</td>
-    <td>Baoer</td>
-    <td>51</td>
-    <td>M</td>
-    <td>November 2019</td>
-    <td><a href="{% post_url 2019-12-31-Stocking-Stuffer-Pens %}">Posted</a></td>
-    <td>Pen Swap Stocking Stuffer</td>
-  </tr>
-  <tr>
-    <td>19</td>
+    <td>12</td>
     <td>Parker</td>
     <td>“15”</td>
     <td>M</td>
@@ -194,7 +131,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Pen Swap Stocking Stuffer - Nice pen, plastic body, eyedroppered</td>
   </tr>
   <tr>
-    <td>20</td>
+    <td>13</td>
     <td>Jinhao</td>
     <td>599</td>
     <td>M</td>
@@ -203,7 +140,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>x8 Purchased to practice some nibwork</td>
   </tr>
   <tr>
-    <td>21</td>
+    <td>14</td>
     <td>Pilot</td>
     <td>Vanishing Point</td>
     <td>M</td>
@@ -212,7 +149,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Blue Carbonesque, Purchased from BBVP Neko</td>
   </tr>
   <tr>
-    <td>22</td>
+    <td>15</td>
     <td>Sailor</td>
     <td>Pro Gear Slim “White Russian”</td>
     <td>M</td>
@@ -221,7 +158,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>The Dude</td>
   </tr>
   <tr>
-    <td>23</td>
+    <td>16</td>
     <td>TWSBI</td>
     <td>580AL Emerald</td>
     <td>F</td>
@@ -230,7 +167,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Purchased from Dr. Brownie of BBVP.  Purchased a 1.1 Stub nib for this pen.</td>
   </tr>
   <tr>
-    <td>24</td>
+    <td>17</td>
     <td>Sailor</td>
     <td>1911L</td>
     <td>B</td>
@@ -239,7 +176,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Lovely pen purchased from PenSachi.</td>
   </tr>
   <tr>
-    <td>25</td>
+    <td>18</td>
     <td>Sheaffer</td>
     <td>1945 Craftsman Red Carmine</td>
     <td>#33 (F)</td>
@@ -248,7 +185,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Restored by Stacy Hills.</td>
   </tr>
   <tr>
-    <td>26</td>
+    <td>19</td>
     <td>Pelikan</td>
     <td>M215 Rings</td>
     <td>EF</td>
@@ -257,7 +194,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Purchased from Dr. Brownie of BBVP</td>
   </tr>
   <tr>
-    <td>27</td>
+    <td>20</td>
     <td>Platinum</td>
     <td>President</td>
     <td>M</td>
@@ -266,7 +203,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Purchased from Pen Swap, arriving soon.</td>
   </tr>
   <tr>
-    <td>28</td>
+    <td>21</td>
     <td>Platinum</td>
     <td>Curidas</td>
     <td>M</td>
@@ -275,7 +212,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Ordered from Lemur Ink.</td>
   </tr>
   <tr>
-    <td>29</td>
+    <td>22</td>
     <td>Wancher X Sailor</td>
     <td>Shamrock Green</td>
     <td>Z</td>
@@ -284,7 +221,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Called the “Sparkling Emerald” in some marketplaces.</td>
   </tr>
   <tr>
-    <td>30</td>
+    <td>23</td>
     <td>Franklin-Christoph</td>
     <td>Model 66 Stabilis</td>
     <td>Masuyama M Stub</td>
@@ -293,7 +230,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Antique Glass. Eventually will have a Seagull nib. Eyedroppered.</td>
   </tr>
   <tr>
-    <td>31</td>
+    <td>24</td>
     <td>TWSBI</td>
     <td>Diamond 580AL R Prussian Blue</td>
     <td>B</td>
@@ -302,7 +239,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Prussian Blue, very pretty, first inked with R.O. Bondi Blue.</td>
   </tr>
   <tr>
-    <td>32</td>
+    <td>25</td>
     <td>Franklin-Christoph</td>
     <td>Model 46L SE</td>
     <td>M S.I.G.</td>
@@ -311,13 +248,22 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Emerald & DC Green; June FC Pen Show</td>
   </tr>
   <tr>
-    <td>33</td>
+    <td>26</td>
     <td>Montblanc</td>
     <td>Victor Hugo, 2020 WE LE</td>
     <td>M</td>
     <td>July 2020</td>
     <td>Soon</td>
     <td>2020 Writer's Edition Limited Edition, along with Victor Hugo ink.</td>
+  </tr>
+   <tr>
+    <td>27</td>
+    <td>Montegrappa</td>
+    <td>Monte Grappa</td>
+    <td>M</td>
+    <td>September 2020</td>
+    <td>Pending</td>
+    <td>Coral</td>
   </tr>
   </tbody>
 </table>
@@ -335,7 +281,13 @@ Pens no longer in my collection, for one reason or another...
 | Nemosine | Singularity | EF | 2013 | None | Demonstrator, Sold 2015 |
 | Jinhao | Shark | F | December 2019 | None | x12 Purchased as gifts for co-workers for Christmas |
 | TWSBI | Eco | B | December 2019 | None | Purchased as a gift for BBVP Secret Santa |
-
+| Visconti | Homo Sapiens Midi | F | August 2019 | <a href="{% post_url 2019-08-21-Visconti-Homo-Sapiens-midi %}">Posted</a> | Sold to fund PC, I miss it! |
+| Jinhao | X450 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
+| Unbranded | "Rosewood" | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
+| Baoer | 508 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
+| Hero | 9038 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
+| Jinhao | 159 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
+| Baoer | 51 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
 ---
 
 ## Wish List
@@ -346,7 +298,7 @@ These pens are on my ~~short~~ list, roughly in order...
 
 | Maker | Model | Nib Size | Notes |
 |-------|--------|---------|---------|
-| Montblanc | Victor Hugo | M or B | Rumored for June 2020 Writer's Edition |
+| ~~Montblanc~~ | ~~Victor Hugo~~ | ~~M~~ | ~~Rumored for June 2020 Writer's Edition~~ |
 | Sailor | King of Pen | M or B | Orange Tangerine or Fire Special Edition PG |
 | Conid | Bulkfiller | M? | Kingsize, perhaps. |
 | Pelikan | M1000 | F or M | Need more BIG pens. |
@@ -357,7 +309,7 @@ These pens are on my ~~short~~ list, roughly in order...
 | Montegrappa | EXTRA 1930 | M | The only Montegrappa I've been struck by. |
 | Nettuno | "God of the Sea" | M | Limited Edition |
 | Montblanc | 146 | F | Perhaps Burgundy? |
-| Visconti | Homo Sapiens | F or M | Would like the full-size version of my VHS Midi. |
+| Visconti | Homo Sapiens | F or M | Would like the full-size version. |
 
 ---
 
