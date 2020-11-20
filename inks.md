@@ -41,6 +41,10 @@ Here is a list of inks currently in my collection.
 | 28 | Sailor | Ink Studio 950 | Possibly | |
 | 29 | Sailor | Ink Studio 960 | Possibly | |
 | 30 | Maruzen | Athena / Eternal Blue Nihonbashi | Possibly | |
+| 31 | Jacques Herbin | Vert Atlantide | Possibly | |
+| 32 | Birmingham Ink | Kier Refinery Petroleum | Possibly | |
+| 33 | Taccia | Nakabayashi Aoguro | Possibly | |
+| 34 | Vinta | Teal | Possibly | |
 
 ---
 
