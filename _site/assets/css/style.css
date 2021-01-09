@@ -305,10 +305,36 @@ a:hover { color: #61C569; }
 
 p { font-size: 1.5em; font-family: 'Alegreya', serif; }
 
-footer { background: #14151D; width: 100%; padding: 10px; text-align: center; }
+footer { background: #14151D; /*width: 90%;*/ padding: 10px; text-align: center; }
 
 hr { overflow: visible; /* For IE */ padding: 0; border: none; border-top: none solid #333; color: #333; text-align: center; }
 
 hr:after { /*content: "§";*/ content: "⚜"; display: inline-block; position: relative; top: -0.7em; font-size: 1.5em; padding: 0 0.25em; background: #07131E; }
 
 .post-title { text-align: center; }
+
+.pagination { font-size: 1.5em; font-family: 'Alegreya', serif; text-align: center; }
+
+.previous { margin-right: 6em; }
+
+.next { margin-left: 8em; }
+
+/*
+.page_number { position: right;
+}*/
+/* DATATABLES */
+.dataTables_wrapper { background-color: #07131E; }
+
+table { color: #A99F8A !important; }
+
+label { font-size: 1.5em; font-family: 'Alegreya', serif; color: #A99F8A; }
+
+input { font-size: 1em; font-family: 'Alegreya', serif; background-color: #003966; color: #A99F8A; border-color: #04233D; }
+
+tbody { background-color: #07131E !important; border-bottom-left-radius: 5px !important; border-bottom-right-radius: 5px !important; }
+
+tr { background-color: #07131E !important; }
+
+.odd { background-color: #051B30 !important; }
+
+tr:hover { background-color: #003363 !important; }
