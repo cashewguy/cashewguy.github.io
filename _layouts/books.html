@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/assets/images/favicon.png">
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <!-- <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script> -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+
+<script type="text/javascript" src="//cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+      <!-- <div id="header">
+        <nav>
+          <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+          {% if site.show_downloads %}
+            <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
+            <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
+            <li class="title">DOWNLOADS</li>
+          {% endif %}
+        </nav>
+      </div> --><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1><b><a id='mast' href='/'>{{ site.title | default: site.github.repository_name }}</a></b></h1>
+          <h6 style="text-align: center;">{{ site.description | default: site.github.project_tagline }} </h6>
+          <p><a href='{% link about.md %}'>About</a> | <a href='{% link pens.md %}'>Pens</a> | <a href='{% link inks.md %}'>Inks</a> | <a href="{% link books.md %}">Books</a>
+          </p>
+          <hr />
+          <!-- <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span> -->
+         <!--  <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span> -->
+        </div>
+        <div id="goodreads-currently-reading-widget">
+                        <!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
+              <style type="text/css" media="screen">
+          .gr_custom_container_1616208727 {
+            /* customize your Goodreads widget container here*/
+            padding: 10px 5px 10px 5px;
+            background-color: transparent;
+            color:#A99F8A;
+            font-family: 'Alegreya', serif;
+            font-weight: bold;
+            
+          }
+          .gr_custom_header_1616208727 {
+            /* customize your Goodreads header here*/
+            width: 100%;
+            margin-bottom: .5em;
+            text-align: center;
+            font-size: 3.75em;
+          }
+          .gr_custom_each_container_1616208727 {
+            /* customize each individual book container here */
+            width: 100%;
+            clear: both;
+            margin-bottom: 10px;
+            overflow: auto;
+            padding-bottom: 4px;
+            border-bottom: 1px dotted #A99F8A;
+          }
+          .gr_custom_book_container_1616208727 {
+            /* customize your book covers here */
+            overflow: hidden;
+            height: 200px;
+              float: left;
+              margin-right: 4px;
+              width: 123px;
+          }
+          .gr_custom_author_1616208727 {
+            /* customize your author names here */
+            font-size: 1.5em;
+          }
+          .gr_custom_tags_1616208727 {
+            /* customize your tags here */
+            font-size: 1em;
+            color: #A99F8A;
+          }
+          .gr_custom_rating_1616208727 {
+            /* customize your rating stars here */
+            float: right;
+          }
+          .gr_custom_title_1616208727 {
+            font-family: 'Alegreya', serif;
+            font-weight: bold;
+            font-size:2.5em;
+            color: #A99F8A;
+          }
+        </style>
+
+              <div id="gr_custom_widget_1616208727">
+                  <div class="gr_custom_container_1616208727">
+            <h2 class="gr_custom_header_1616208727">
+            <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/3894814-thomas-b?shelf=currently-reading&amp;utm_medium=api&amp;utm_source=custom_widget">Thomas&#39; Currently Reading</a>
+            </h2>
+              <div class="gr_custom_each_container_1616208727">
+                  <div class="gr_custom_book_container_1616208727">
+                    <a title="Alesia 52 BC: The final struggle for Gaul" rel="nofollow" href="https://www.goodreads.com/review/show/3893452897?utm_medium=api&amp;utm_source=custom_widget"><img alt="Alesia 52 BC: The final struggle for Gaul" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400224550l/18772471._SX98_.jpg" /></a>
+                  </div>
+                  <div class="gr_custom_title_1616208727">
+                    <a rel="nofollow" href="https://www.goodreads.com/review/show/3893452897?utm_medium=api&amp;utm_source=custom_widget">Alesia 52 BC: The final struggle for Gaul</a>
+                  </div>
+                  <div class="gr_custom_author_1616208727">
+                    by <a rel="nofollow" href="https://www.goodreads.com/author/show/31121.Nic_Fields">Nic Fields</a>
+                  </div>
+              </div>
+          <br style="clear: both"/>
+          <center>
+            <a rel="nofollow" href="https://www.goodreads.com/"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>
+          </center>
+          <noscript>
+            Share <a rel="nofollow" href="https://www.goodreads.com/">book reviews</a> and ratings with Thomas, and even join a <a rel="nofollow" href="https://www.goodreads.com/group">book club</a> on Goodreads.
+          </noscript>
+          </div>
+
+              </div>
+              <script src="https://www.goodreads.com/review/custom_widget/3894814.Thomas'%20Currently%20Reading?cover_position=left&cover_size=medium&num_books=5&order=d&shelf=currently-reading&show_author=1&show_cover=1&show_rating=0&show_review=1&show_tags=0&show_title=1&sort=date_read&widget_bg_color=07131E&widget_bg_transparent=true&widget_border_width=1&widget_id=1616208727&widget_text_color=A99F8A&widget_title_size=large&widget_width=full" type="text/javascript" charset="utf-8"></script>
+        </div>
+        <div id="goodreads-recent-updates-widget">
+            <style>
+    #customize-list{
+      float:absolute;
+      margin-left:20px;
+      list-style:none;
+    }
+    #gr_updates_widget{
+    float:absolute;
+    border-radius: 5px;
+    background-color:#fff;
+    border:solid #683205 10px;
+    -webkit-box-shadow: 0px 0px 4px 1px #595959,
+    inset 0px 0px 0px 1px #7D730B;
+    -moz-box-shadow: 0px 0px 4px 1px #595959,
+    inset 0px 0px 0px 1px #7D730B;
+    box-shadow: 0px 0px 4px 1px #595959,
+    inset 0px 0px 0px 1px #7D730B;
+    padding:15px 0 0px 15px;
+    width:250px;
+    height:365px;
+    }
+    #gr_footer{
+    margin-bottom:0px;
+    height:30px;
+    }
+    #gr_updates_widget p{
+    padding:0px;
+    margin:0;
+    font-size:14px;
+    }
+    #gr_footer img{
+    width:100px;
+    float:absolute;
+    }
+  </style>
+      <center>
+        <div id="gr_updates_widget">
+          <iframe id="the_iframe" src="https://goodreads.com/widgets/user_update_widget?height=400&num_updates=3&user=3894814&width=250" width="248" height="330" frameborder="0"></iframe>
+            <div id="gr_footer">
+              <a href="https://www.goodreads.com/"><img alt="Goodreads: Book reviews, recommendations, and discussion" src="https://s.gr-assets.com/images/layout/goodreads_logo_140.png" /></a>
+          </div>
+        </div>
+      </center>
+
+        </div>
+
+
+        {{ content }}
+
+      </section>
+
+    </div>
+
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+ 
+<footer>
+    <h5>About</h5>
+    <p>Writing here does reflect the views of anyone except the author.  Read more at the <a href='{% link about.md %}'>About</a> page.  If you're interested in my professional work, please visit <a href="https://www.thomasbates.info/">here.</a></p>
+    <div>Icons made by <a href="https://www.flaticon.com/authors/iconnice" title="Iconnice">Iconnice</a> from <a href="https://www.flaticon.com/"                 title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"                 title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+</footer> 
+
+  </body>
+</html>

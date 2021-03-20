@@ -1,9 +1,15 @@
 ---
-layout: default
+layout: books
 title: "Books & Reading List"
 ---
 
-# 2020 Books List
+<br>
+<hr>
+# The list below is no longer updated, in favor of GoodReads.
+<hr>
+<br>
+
+## 2020 Books List
 
 Here is a list of books I've read or am currently reading in 2020:
 
