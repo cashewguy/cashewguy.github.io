@@ -28,7 +28,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Safari</td>
     <td>M</td>
     <td>2012</td>
-    <td>Soon!</td>
+    <td>None</td>
     <td>F nib replaced by 1.9 Stub 8/30/19</td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>No Nonsense</td>
     <td>M</td>
     <td>September 2019</td>
-    <td>Planned</td>
+    <td>None</td>
     <td>Green Flattop</td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>599</td>
     <td>M</td>
     <td>December 2019</td>
-    <td>Maybe</td>
+    <td>None</td>
     <td>x8 Purchased to practice some nibwork</td>
   </tr>
   <tr>
@@ -163,7 +163,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>580AL Emerald</td>
     <td>F</td>
     <td>January 2020</td>
-    <td>Soon!</td>
+    <td>None</td>
     <td>Purchased from Dr. Brownie of BBVP.  Purchased a 1.1 Stub nib for this pen.</td>
   </tr>
   <tr>
@@ -175,35 +175,35 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td><a href="{% post_url 2020-04-07-Sailor-1911L %}">Posted</a></td>
     <td>Lovely pen purchased from PenSachi.</td>
   </tr>
-  <tr>
+<!--   <tr>
     <td>18</td>
     <td>Sheaffer</td>
     <td>1945 Craftsman Red Carmine</td>
     <td>#33 (F)</td>
     <td>January 2020</td>
-    <td>Soon!</td>
+    <td>None</td>
     <td>Restored by Stacy Hills.</td>
-  </tr>
+  </tr> -->
   <tr>
-    <td>19</td>
+    <td>18</td>
     <td>Pelikan</td>
     <td>M215 Rings</td>
     <td>EF</td>
     <td>January 2020</td>
-    <td>Planned</td>
+    <td>None</td>
     <td>Purchased from Dr. Brownie of BBVP</td>
   </tr>
   <tr>
-    <td>20</td>
+    <td>19</td>
     <td>Platinum</td>
     <td>President</td>
     <td>M</td>
     <td>February 2020</td>
-    <td>Planned</td>
+    <td>None</td>
     <td>Purchased from Pen Swap, arriving soon.</td>
   </tr>
   <tr>
-    <td>21</td>
+    <td>20</td>
     <td>Platinum</td>
     <td>Curidas</td>
     <td>M</td>
@@ -212,7 +212,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Ordered from Lemur Ink.</td>
   </tr>
   <tr>
-    <td>22</td>
+    <td>21</td>
     <td>Wancher X Sailor</td>
     <td>Shamrock Green</td>
     <td>Z</td>
@@ -221,7 +221,7 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Called the “Sparkling Emerald” in some marketplaces.</td>
   </tr>
   <tr>
-    <td>23</td>
+    <td>22</td>
     <td>Franklin-Christoph</td>
     <td>Model 66 Stabilis</td>
     <td>Masuyama M Stub</td>
@@ -230,40 +230,58 @@ Here is a list of pens currently in my collection.  I might also include inks in
     <td>Antique Glass. Eventually will have a Seagull nib. Eyedroppered.</td>
   </tr>
   <tr>
-    <td>24</td>
+    <td>23</td>
     <td>TWSBI</td>
     <td>Diamond 580AL R Prussian Blue</td>
     <td>B</td>
     <td>May 2020</td>
-    <td>Soon</td>
+    <td>None</td>
     <td>Prussian Blue, very pretty, first inked with R.O. Bondi Blue.</td>
   </tr>
   <tr>
-    <td>25</td>
+    <td>24</td>
     <td>Franklin-Christoph</td>
     <td>Model 46L SE</td>
     <td>M S.I.G.</td>
     <td>June 2020</td>
-    <td>Soon</td>
+    <td>None</td>
     <td>Emerald & DC Green; June FC Pen Show</td>
   </tr>
   <tr>
-    <td>26</td>
+    <td>25</td>
     <td>Montblanc</td>
     <td>Victor Hugo, 2020 WE LE</td>
     <td>M</td>
     <td>July 2020</td>
-    <td>Soon</td>
-    <td>2020 Writer's Edition Limited Edition, along with Victor Hugo ink.</td>
+    <td>After Bacas</td>
+    <td>2020 Writer's Edition Limited Edition, along with Victor Hugo ink.  @Nibgrinder for work.</td>
   </tr>
    <tr>
-    <td>27</td>
+    <td>26</td>
     <td>Montegrappa</td>
     <td>Monte Grappa</td>
     <td>M</td>
     <td>September 2020</td>
     <td>Pending</td>
     <td>Coral</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>Pilot</td>
+    <td>Metropolitan</td>
+    <td>F</td>
+    <td>December 2020</td>
+    <td>None</td>
+    <td>Gift</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>Moonman</td>
+    <td>S5</td>
+    <td>Stub</td>
+    <td>December 2020</td>
+    <td>None</td>
+    <td>Gift</td>
   </tr>
   </tbody>
 </table>
@@ -281,6 +299,7 @@ Pens no longer in my collection, for one reason or another...
 | Nemosine | Singularity | EF | 2013 | None | Demonstrator, Sold 2015 |
 | Jinhao | Shark | F | December 2019 | None | x12 Purchased as gifts for co-workers for Christmas |
 | TWSBI | Eco | B | December 2019 | None | Purchased as a gift for BBVP Secret Santa |
+| Sailot | 1945 Craftsman Red Carmine | F | January 2020 | None | Sold as it was far too small for me, lovely pen though; restored by Stacy Hills. |
 | Visconti | Homo Sapiens Midi | F | August 2019 | <a href="{% post_url 2019-08-21-Visconti-Homo-Sapiens-midi %}">Posted</a> | Sold to fund PC, I miss it! |
 | Jinhao | X450 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
 | Unbranded | "Rosewood" | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
@@ -291,7 +310,7 @@ Pens no longer in my collection, for one reason or another...
 
 ---
 
-## Wish List
+## The List
 
 ---
 
