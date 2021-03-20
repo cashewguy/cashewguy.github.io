@@ -299,7 +299,7 @@ Pens no longer in my collection, for one reason or another...
 | Nemosine | Singularity | EF | 2013 | None | Demonstrator, Sold 2015 |
 | Jinhao | Shark | F | December 2019 | None | x12 Purchased as gifts for co-workers for Christmas |
 | TWSBI | Eco | B | December 2019 | None | Purchased as a gift for BBVP Secret Santa |
-| Sailot | 1945 Craftsman Red Carmine | F | January 2020 | None | Sold as it was far too small for me, lovely pen though; restored by Stacy Hills. |
+| Sheaffer | 1945 Craftsman Red Carmine | F | January 2020 | None | Sold as it was far too small for me, lovely pen though; restored by Stacy Hills. |
 | Visconti | Homo Sapiens Midi | F | August 2019 | <a href="{% post_url 2019-08-21-Visconti-Homo-Sapiens-midi %}">Posted</a> | Sold to fund PC, I miss it! |
 | Jinhao | X450 | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
 | Unbranded | "Rosewood" | M | November 2019 | [Posted]({% post_url 2019-12-31-Stocking-Stuffer-Pens %}) | Pen Swap Stocking Stuffer |
