@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ramblings from Quarantine"
-published:false
+published: false
 
 ---
 
