@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Thoughts on Reading"
+published: false
+
 ---
 
 When I was very young - in first-grade - I had to meet with a teacher separately from other kids for maybe an hour a day or week.  This was, as best I remember because I had some difficulty with reading.  I remember one of the exercises we did was to take several words that had been printed on pieces of paper and arrange them into proper sentences.  It wasn't very long after that when my love for reading developed, and I read above my grade level the rest of the time I was in school.
