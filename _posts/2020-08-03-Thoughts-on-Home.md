@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Thoughts on Home"
+published: false
 
 ---
 
